@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<p align="center">
+  <img src="./うさぎ.svg" alt="chiikawa ascii" />
+</p>
+
 <!--
 **Woojin2965/Woojin2965** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
