@@ -2,6 +2,7 @@
 
 <p align="center">
   <img src="./うさぎ.svg" alt="chiikawa ascii" />
+  <br>
 </p>
 
 <!--
