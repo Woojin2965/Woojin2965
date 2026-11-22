@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="./うさぎ.svg" alt="chiikawa ascii" />
+  <img src="./usagi.svg" alt="chiikawa ascii" />
   <br>
 </p>
 
